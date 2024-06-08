@@ -67,7 +67,7 @@ let sentence = document.getElementById('text');
 
 const phrases = [
     "Web & App Developer" ,
-    "Web Deigner" ,
+    "Web Designer" ,
   ];
 
   // Element to display typing
